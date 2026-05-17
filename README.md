@@ -33,4 +33,5 @@ Hi! I'm Divya, a novice coder
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-api-web-development-flaticons-lineal-color-flat-icons.png" title="RESTful APIs" alt="RESTful APIs" width="40" height="40"/>
 </div>
 
-## Connect with me through LinkedIn to discuss interesting stuff!
+
+# Connect with me through LinkedIn to discuss interesting stuff!
