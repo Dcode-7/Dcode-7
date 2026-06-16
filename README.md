@@ -17,9 +17,6 @@ Hi! I'm Divya, a novice coder
 <div align="left">
 
   <!-- Languages / Backend -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/express/FFFFFF" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-api-web-development-flaticons-lineal-color-flat-icons.png" title="RESTful APIs" alt="RESTful APIs" width="40" height="40"/>&nbsp;&nbsp;
 
   <!-- AI -->
